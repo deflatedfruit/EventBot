@@ -159,6 +159,6 @@ alert.error
 async def alert_error(ctx, error):
     if isinstance(error, commands.MissingRole):
         await ctx.send("You must have the **Events Manager** role to perform this command")
-
-
-bot.run("NzAwMzYwNjA4NDQwMjU0NTA2.XpjyrQ.KGnuhKUPV3DTfTV56o4J4Y3-o6E")
+                         
+                         
+bot.run("YOUR TOKEN HERE")
