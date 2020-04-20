@@ -12,3 +12,4 @@ Commands:
 !status <text> - Set the bot status message. Leave text blank to reset.
   
 If anyone knows how to schedule messages, please tell.
+
