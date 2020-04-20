@@ -1,7 +1,7 @@
 # EventBot
 Events manager for Discord
 
-Commands:
+Commands:  
 !schedule - List this week's schedule  
 !schedule modify <text> - Set the schedule to text  
 !event - List all the events that are currently scheduled  
