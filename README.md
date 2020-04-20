@@ -15,7 +15,7 @@ Commands:
 !status <text> - Set the bot status message. Leave text blank to reset.  
   
   
-Aliases:
+Aliases:  
 event: events  
 schedule: sched  
   
