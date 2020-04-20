@@ -1,6 +1,9 @@
 # EventBot
 Events manager for Discord
 
+An 'event' is a one-off item that happens at a specific date and time
+The 'schedule' is simply a multiline string that is intended to contain any repeating events [TODO: Add support for repeating events and remove !schedule]
+
 Commands:  
 !schedule - List this week's schedule  
 !schedule modify <text> - Set the schedule to text  
@@ -10,6 +13,11 @@ Commands:
 !event alert - Message [at]here with any events happening today  
 !event help - Display this help message  
 !status <text> - Set the bot status message. Leave text blank to reset.  
+  
+  
+Aliases:
+event: events  
+schedule: sched  
   
 If anyone knows how to schedule messages, please tell.
 
