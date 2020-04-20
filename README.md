@@ -13,6 +13,7 @@ Commands:
 !event alert - Message [at]here with any events happening today  
 !event help - Display this help message  
 !status <text> - Set the bot status message. Leave text blank to reset.  
+!kill - Terminate the bot 
   
   
 Aliases:  
